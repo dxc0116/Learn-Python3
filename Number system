@@ -1,0 +1,5 @@
+Express and convert of binary, octal, decimal and hexadecimal.
+binary: 0b111 = 0o7 = 7 = 0x7
+octal: 0o17 = 0b1111 = 15 = 0xf
+decimal: 11 = 0b1011 = 0o13 = 0xc
+hexadecimal: 0x14 = 0b10100 = 0o24 =20
