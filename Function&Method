@@ -1,0 +1,2 @@
+Function can call directly,ex: len("hello"),max("123"),min("help")
+Method is a function of the class, so you must call it with instance, ex: tom is an instance of class Person, eat() is method of Person, call it with tom.eat() 
